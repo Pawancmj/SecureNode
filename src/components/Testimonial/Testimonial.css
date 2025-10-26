@@ -1,0 +1,22 @@
+/* src/components/Testimonial/Testimonial.css */
+.testimonial {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 10px;
+  max-width: 300px;
+  text-align: center;
+}
+
+.testimonial-author {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.testimonial-author img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}

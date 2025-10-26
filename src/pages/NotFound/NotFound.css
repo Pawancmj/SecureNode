@@ -1,0 +1,15 @@
+/* src/pages/NotFound/NotFound.css */
+.notfound-page {
+  text-align: center;
+  padding: 4rem;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #1d4ed8;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-top: 2rem;
+}

@@ -1,0 +1,44 @@
+/* src/pages/Blog/Blog.css */
+.blog-page {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.blog-page h2 {
+  color: #1d4ed8;
+  margin-top: 2rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #1d4ed8;
+}
+
+.whitepapers form {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.whitepapers input {
+  flex: 1;
+  padding: 0.5rem;
+}
+
+.whitepapers button {
+  padding: 0.5rem 1rem;
+  background-color: #1d4ed8;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}

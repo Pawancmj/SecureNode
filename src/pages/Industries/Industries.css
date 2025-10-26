@@ -1,0 +1,12 @@
+/* src/pages/Industries/Industries.css */
+.industries-page {
+  padding: 2rem;
+  text-align: center;
+}
+
+.industries-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}

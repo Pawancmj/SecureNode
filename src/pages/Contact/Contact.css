@@ -1,0 +1,14 @@
+/* src/pages/Contact/Contact.css */
+.contact-page {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+.contact-info p, .social-media p {
+  margin: 0.5rem 0;
+}

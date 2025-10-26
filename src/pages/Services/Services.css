@@ -1,0 +1,12 @@
+/* src/pages/Services/Services.css */
+.services-page {
+  padding: 2rem;
+  text-align: center;
+}
+
+.services-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}

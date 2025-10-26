@@ -1,0 +1,11 @@
+/* src/pages/About/About.css */
+.about-page {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding: 2rem;
+}
+
+section h2, section h3 {
+  color: #1d4ed8;
+}

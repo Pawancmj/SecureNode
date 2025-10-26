@@ -1,0 +1,25 @@
+/* src/pages/Home/Home.css */
+.home-page {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+.services-snapshot, .testimonials-section, .cta-section {
+  text-align: center;
+}
+
+.services-cards, .testimonials-container {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #1d4ed8;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+}

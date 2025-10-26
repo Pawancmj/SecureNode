@@ -1,0 +1,12 @@
+/* src/pages/Solutions/Solutions.css */
+.solutions-page {
+  padding: 2rem;
+  text-align: center;
+}
+
+.solutions-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}

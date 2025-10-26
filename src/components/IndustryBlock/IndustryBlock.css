@@ -1,0 +1,15 @@
+/* src/components/IndustryBlock/IndustryBlock.css */
+.industry-block {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  width: 200px;
+}
+
+.industry-block img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 5px;
+}

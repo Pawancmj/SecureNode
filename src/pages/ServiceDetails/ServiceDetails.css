@@ -1,0 +1,23 @@
+/* src/pages/ServiceDetails/ServiceDetails.css */
+.service-details-page {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #1d4ed8;
+  margin-bottom: 1rem;
+}
+
+section {
+  margin: 2rem 0;
+}
+
+.cta-button {
+  padding: 1rem 2rem;
+  background-color: #1d4ed8;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+}
